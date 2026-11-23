@@ -6,6 +6,8 @@ orphan: true
 
 [Back to the Fish Audio Drama 3 quick start](../fishaudio_drama3.md).
 
+
+This paragraph exists only to exercise the rendered diff on the fork test pull request.
 The [Fish Audio Drama 3](../fishaudio_drama3.md) defaults serve one GPU as they are. This page covers the settings to change when you have more GPUs, need more concurrent streams, or want a different decode path. The measurements these settings were chosen from are in [Benchmarks](benchmarks.md).
 
 ## Deployment Performance
