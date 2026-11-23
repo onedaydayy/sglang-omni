@@ -1,0 +1,18 @@
+{
+  "changed": [
+    {
+      "page": "cookbook/fishaudio_drama3.html",
+      "title": "Fish Audio Drama 3",
+      "added": 1,
+      "removed": 1
+    },
+    {
+      "page": "cookbook/fishaudio_drama3/tuning.html",
+      "title": "Fish Audio Drama 3 Tuning",
+      "added": 1,
+      "removed": 1
+    }
+  ],
+  "added": [],
+  "removed": []
+}
